@@ -1,0 +1,98 @@
+Author: Gary Pamparà <gpampara@gmail.com>
+Author: Kyle Erwin <kyle.erwin24@gmail.com>
+Author: Matthias <matthiasharvey@gmail.com>
+Author: Gary Pamparà <gpampara@gmail.com>
+Author: Robert Garden <robgarden@gmail.com>
+Author: Filipe Nepomuceno <filinep@gmail.com>
+Author: Christof Enslin <censlin@cs.up.ac.za>
+Author: Bennie Leonard <bennie.leonard@gmail.com>
+Author: Simon van Dyk <simon.vandyk@gmail.com>
+Author: Marde Helbig <mgreeff@gmail.com>
+Author: Wiehann Matthysen <wcmatthysen@gmail.com>
+Author: censlin <censlin@cs.up.ac.za>
+Author: Kristina Georgieva <kristina.s.georgieva@gmail.com>
+Author: Kyle Robert Harrison <kh08uh@brocku.ca>
+Author: Paulo Roger <prgc@homer.(none)>
+Author: Andrich van Wyk <andrich.van.wyk@epiuse.co.za>
+Author: Andries Engelbrecht <engel@cs.up.ac.za>
+Author: Filipe <filinep@gmail.com>
+Author: Christof Enslin <civilian@tuks.co.za>
+Author: Anna Rakitianskaia <myearwen@gmail.com>
+Author: Andries Engelbrecht <engel@up.ac.za>
+Author: Bennie <bennie@bennie-Ubuntu.(none)>
+Author: Gary Pampara <gpampara@gmail.com>
+Author: Theuns Cloete <theuns.cloete@gmail.com>
+Author: Andrich van Wyk <avwgarfield@gmail.com>
+Author: Julien Duhain <s22160282@tuks.co.za>
+Author: Leo Langenhoven <llangenhoven@cs.up.ac.za>
+Author: Wiehann Matthysen <wiehann.matthysen@rorotika.com>
+Author: Andrich <avwgarfield@gmail.com>
+Author: leolangen@gmail.com <leolangen@gmail.com>
+Author: Leo Langenhoven <leolangen@gmail.com>
+Author: Gary Pampara <gpampara@localhost.(none)>
+Author: Gary Pampara <gpampara@minifireslug.(none)>
+Author: Theuns Cloete <thenus.cloete@gmail.com>
+Author: Marco Primi <mprimi@netflix.com>
+Author: Tom Gianos <tgianos@netflix.com>
+Author: Tom Gianos <tgianos@users.noreply.github.com>
+Author: Sumit Tandon <standon@netflix.com>
+Author: Steve Hill <sghill.dev@gmail.com>
+Author: Abhishek Kapatkar <cabhishek@gmail.com>
+Author: Daniel Trebbien <dtrebbien@gmail.com>
+Author: Kyle Kelley <rgbkrk@gmail.com>
+Author: Abhishek <cabhishek@gmail.com>
+Author: z1000 <yiqian.zhou@gmail.com>
+Author: John Lee <itsjohnlee@gmail.com>
+Author: Charles Smith <czrdup@gmail.com>
+Author: Mike Grima <mikegrima@users.noreply.github.com>
+Author: Ajoy Majumdar <ajoymajumdar@hotmail.com>
+Author: Stephen Wood <smwood4@gmail.com>
+Author: amitsharma1981 <amitsharma1708@gmail.com>
+Author: Ajoy Majumdar <amajumdar@netflix.com>
+Author: Steven Wong <skwslide@gmail.com>
+Author: Amit Sharma <amitsharma1708@gmail.com>
+Author: Jon Schneider <jkschneider@gmail.com>
+Author: Amit Sharma <amit@Amits-MacBook-Pro.local>
+Author: Tom Gianos <tom.gianos@gmail.com>
+Author: Rob Spieldenner <rob.spieldenner@gmail.com>
+Author: Andrew Spyker <aspyker@netflix.com>
+Author: Liviu Tudor <ltudor@netflix.com>
+Author: Cheolsoo Park <cheolsoop@netflix.com>
+Author: Bob T Builder <builds@netflix.com>
+Author: Cheolsoo Park <piaozhexiu@gmail.com>
+Author: Bill Krueger <bill.krueger@cbsinteractive.com>
+Author: jhowarth <jhowarth@riotgames.com>
+Author: Sriram Krishnan <skrishnan@netflix.com>
+Author: Steven Wong <swong@netflix.com>
+Author: John Lee <johlee@netflix.com>
+Author: Jakub Narloch <jmnarloch@gmail.com>
+Author: Sriram Krishnan <sriramkrishnan@gmail.com>
+Author: Ruslan Meshenberg <rusik_m@yahoo.com>
+Author: Henri Yandell <bayard@apache.org>
+Author: Andrew Bayer <andrew.bayer@gmail.com>
+Author: Graham Gear <graham.gear@gmail.com>
+Author: Tom White <tomwhite@apache.org>
+Author: Ioannis Canellos <iocanel@apache.org>
+Author: Tom White <tom@cloudera.com>
+Author: Andrei Savu <asavu@apache.org>
+Author: Andrew Bayer <abayer@apache.org>
+Author: Adrian Cole <adriancole@apache.org>
+Author: Thomas White <tomwhite@apache.org>
+Author: Frank Scholten <frankscholten@apache.org>
+Author: Karel Vervaeke <kve@apache.org>
+Author: David Alves <dralves@apache.org>
+Author: Gavin McDonald <gmcdonald@apache.org>
+Author: Tibor Kiss <tibor@apache.org>
+Author: Lars George <larsgeorge@apache.org>
+Author: Johan Oskarsson <johan@apache.org>
+Author: Patrick D. Hunt <phunt@apache.org>
+Author: Tony Fader <afader@gmail.com>
+Author: Michael Schmitz <michael@schmitztech.com>
+Author: Rob Bart <rbart@cs.washington.edu>
+Author: niranjan <getniranj@yahoo.com>
+Author: Anthony Fader <afader@gmail.com>
+Author: Anthony Fader <afader@funicular.cs.washington.edu>
+Author: Michael Schmitz <schmmd@cs.washington.edu>
+Author: Robert Bart <rbart@cs.washington.edu>
+Author: Niranjan Balasubramanian <getniranj@yahoo.com>
+Author: Janara Christensen <janara>
