@@ -10,4 +10,6 @@ do
 	echo $appPath
 	git clone $gitLink
 	cd $appPath
-	
+	git log > ../${arr[3]}_log.txt
+	cd $path
+	rm -rf $appPath
