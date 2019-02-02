@@ -13,3 +13,13 @@ do
 	git log > ../${arr[3]}_log.txt
 	cd $path
 	rm -rf $appPath
+	while read line
+	do
+		if [[ $line = "Author: "* ]]; then
+
+				echo "Writing Developer info to file"
+				echo $line >> Developers.txt
+		fi
+	done < ${arr[3]}_log.txt
+
+done < gitlinks.txt
