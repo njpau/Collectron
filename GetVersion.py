@@ -38,7 +38,7 @@ def getVersions():
 
  
 
-    description = subprocess.check_output(['git', 'describe', '--long'])
+    description = subprocess.check_output(['git', 'describe', '--tags', '--match', '[0-9]*'])
 
     m = re.match('(?P<major>[0-9]*)\.(?P<minor>[0-9]*)\.(?P<revision>[0-9]*)-(?P<trailer>.*$)', description)
 
